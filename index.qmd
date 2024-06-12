@@ -1,0 +1,278 @@
+---
+title: "Final Update Antipsychotics Project"
+subtitle: "- aren't you glad "
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+incremental: true
+editor: source
+---
+
+## Differentially Methylated Regions <br> associated with antipsychotic treatment <br> <br> <br> <br> <br> Martens Summer Seminar <br> June 17, 2024 {background-color="black" background-image="img/summerFlowers.jpg" background-size="cover" background-opacity="0.7"}
+
+---
+
+## Psychotic Disorders<br>
+
+:::: columns
+::: {.column width="30%"}
+![]
+:::
+
+::: {.column width="70%"}
+<p>[SCZ, BPD, MDD]{.highlight}</p>
+
+<br> Prevalence in Norway \~ 1.6 % (Helsedirektoratet, 2019, Report part III) <br><br>  <br>   
+
+:::
+
+::: footer
+Martens Summer Seminar June 17, 2024
+:::
+---
+
+## Antipsychotics <br>
+
+::: {.nonincremental}
+
+-  Acute phase: Often very effective<br>
+-  Long term: health problems, cognitive decline,<br> reduced effect<br>
+-  Efficacy: D2/D3 receptor antagonism <br>
+-  Side effects: multiple receptor targets<br>
+-  Therapeutic advances target dopamine/glutamate 
+
+:::
+
+
+::: footer
+Martens Group Retreat
+
+:::
+
+
+---
+
+## The Synapse in Psychosis
+
+
+
+
+
+::: footer
+Figure: 
+:::
+
+---
+
+
+
+
+
+---
+
+
+## The Environment and DNAm
+
+{fig-align="center"}
+
+::: footer
+Fig. adapted from Tzika, Dreker, Imhof, 2018, ***Frontiers in Genetics***
+:::
+
+---
+
+
+## The Path to Methylation 
+
+{fig-align="center"}
+
+
+
+
+---
+
+
+## DNA Methylation & Antipsychotics <br> <br>
+
+<p>[Olanzapine, Quetiapine, Risperidone]{.highlight}</p>
+
+::: {.nonincremental}
+ 
+
+-  Aim 1: To identify common and specific effects on DNA methylation mediated by these APs.
+
+-  Aim 2: Will characterizing variation in methylation contribute to Aim 1? 
+
+:::
+
+::: footer
+Martens Summer Seminar June 17, 2024
+:::
+
+
+---
+
+
+## Methods: Sample Selection {.nostretch}
+
+{width="45%" fig-align="center"}
+
+---
+
+## Methods: Models
+
+Adjustment for both: <br> Age + Sex + Smoking Score + Diagnosis + Technical + eCells
+
+:::: columns
+::: {.column width="50%"}
+<br>
+
+<p>[Common Effects]{.highlight}</p>
+
+<br>
+
+Quantitative (n=136) <br> <br>
+
+DNAm \~ AP serum values
+
+:::
+
+::: {.column width="50%"}
+<br>
+
+<p>[Specific Effects]{.highlight}</p>
+
+<br>
+
+Categorical (n=259) <br> <br>
+
+DNAm \~ AP vs. <br> (2 APs + Med-free)
+:::
+
+::::
+
+---
+
+## EWAS and Regional Analyses
+
+:::: columns
+::: {.column width="50%"}
+<p>[Differentially Methylated (DMRs)]{.highlight}</p>
+
+<br> * Detects mean difference between tissues <br><br> * Parameters: 500 bp, <br> min. 4 CpGs, FDR 0.05
+:::
+
+::: {.column width="50%"}
+<p>[Variably Methylated (VMRs)]{.highlight}</p>
+
+<br> <br> * Detects difference in variance within a tissue <br><br> * Parameters: 1000 bp, <br> min. 10 CpGs, C2, FDR 0.05
+:::
+
+::::
+
+::: footer
+R packages: DMRs - *dmrff*, Suderman, 2018,
+:::
+
+---
+
+## Results: Common Effects - DMRs
+
+{fig-align="center"}
+
+---
+
+## Results: *SHANK2* <br>
+
+SH3 and multiple ankyrin repeat domains 2 <br><br>
+
+Synaptic Gene Ontologies Database
+
+<p>[GO terms:]{.highlight}</p> 
+
+::: {.nonincremental}
+
+-  postsynaptic density (GO:0014069) <br> 
+-  regulation of postsynapse organization (GO:0099175) <br> 
+-  structural constituent of postsynaptic density (GO:0098919) <br> <br> 
+
+:::
+
+
+
+::: footer
+
+https://www.syngoportal.org/
+
+:::
+
+---
+
+## Results: The *SHANK2* DMR
+
+![](img/SerumValues_SHANK2.png)
+
+---
+
+## Results: Common Effects - VMRs<br><br>
+
+
+
+:::: footer
+Martens Summer Seminar June 17, 2024
+:::: 
+
+---
+
+<p>[*TNXB* (Tenascin-XB)]{.highlight}</p> chr6 MHC (class III region)
+
+:::: {layout-ncol=1}
+
+
+
+
+![](img/TNXB_ref.png)
+
+
+::::
+
+---
+
+## Results: Specific Effects - DMRs<br>
+
+![]{width="60%"}
+
+---
+
+## Results: Specific Effects - VMRs<br>
+
+!{width="60%"}
+
+---
+
+## Conclusion
+
+::: {.incremental}
+
+-  The common effects of APs on ***SHANK2*** expression and glutamate receptor function may be mediated by DNAm. 
+
+-  Identification of the specific effects may need larger sample sizes.  
+
+-  GxE interactions are implicated in up to 75% of VMRs (Epigenomics of Common Diseases 2023). 
+
+:::
+
+::: footer
+Martens Summer Seminar June 17, 2024
+:::
+
+---
+
+## Acknowledgements
+
+Stéphanie, Anne-Kristin, You all!, NORMENT, Patients enrolled in the TOP Cohort
+
+![](img/Martens_web2022final.png){fig-align="center"}
+
+---
