@@ -199,7 +199,11 @@ Synaptic Gene Ontologies Database
 
 :::
 
+Using Enrichr for gene set enrichment analysis, we identified significant enrichment of synaptic genes in our dataset. The gene set was sourced from the SynGO 2024 database. 
 
+**Citations:**
+- Enrichr: Chen EY, Tan CM, Kou Y, Duan Q, Wang Z, Meirelles GV, Clark NR, Ma'ayan A. Enrichr: interactive and collaborative HTML5 gene list enrichment analysis tool. BMC Bioinformatics. 2013;14:128. doi:10.1186/1471-2105-14-128.
+- SynGO: Koopmans F, van Nierop P, Andres-Alonso M, Byrnes A, Cijsouw T, Coba MP, et al. SynGO: An Evidence-Based, Expert-Curated Knowledge Base for the Synapse. Neuron. 2019;103(2):217-234.e4. doi:10.1016/j.neuron.2019.05.002.
 
 ::: footer
 
@@ -271,8 +275,8 @@ Martens Summer Seminar June 17, 2024
 
 ## Acknowledgements
 
-Stéphanie, Anne-Kristin, You all!, NORMENT, Patients enrolled in the TOP Cohort
+Stéphanie, Anne-Kristin, You all!, Have a great summer!
 
-![](img/Martens_web2022final.png){fig-align="center"}
+![](img/Watermelon.jpeg){fig-align="center"}
 
 ---
