@@ -1,6 +1,6 @@
 ---
 title: "Final Update Antipsychotics Project"
-subtitle: "- aren't you glad "
+subtitle: "I´m so glad &#x1F602;&#x1F44F;"
 format: 
   revealjs:
     theme: [default, custom.scss]
