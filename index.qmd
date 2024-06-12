@@ -13,19 +13,26 @@ editor: source
 
 ---
 
-## Psychotic Disorders<br>
+## Looking back over the project <br>
 
-:::: columns
-::: {.column width="30%"}
-![]
+ - Focus on response, rather than cross-sectional methylation status
+ - Real-world studies are also challenging - most are short term
+ - Median study duration 6 weeks, maximum 13 weeks
+ - Treatment discontinuation rate (TDR) lower for monotherapy vs polypharmacy
+ - Risperidone highest TDR and shortest Time to discontinuation (TTD)
+ 
+
+
+::: footer
+Leucht __et al.__ World Psychiatry, 2023; Zhang __et al.__ Frontiers in Pharmacology, 2022
 :::
 
-::: {.column width="70%"}
-<p>[SCZ, BPD, MDD]{.highlight}</p>
+---
+#∣ fig-width: 16
+#∣ fig-height: 9
 
-<br> Prevalence in Norway \~ 1.6 % (Helsedirektoratet, 2019, Report part III) <br><br>  <br>   
+![](img/Sample_Selection.png)
 
-:::
 
 ::: footer
 Martens Summer Seminar June 17, 2024
