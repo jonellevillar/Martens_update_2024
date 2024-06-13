@@ -335,198 +335,25 @@
 <section id="differentially-methylated-regions-associated-with-antipsychotic-treatment-martens-summer-seminar-june-17-2024" class="slide level2" data-background-color="black" data-background-image="img/summerFlowers.jpg" data-background-size="cover" data-background-opacity="0.7">
 <h2>Differentially Methylated Regions <br> associated with antipsychotic treatment <br> <br> <br> <br> <br> Martens Summer Seminar <br> June 17, 2024</h2>
 </section>
-<section id="looking-back-over-the-project" class="slide level2">
-<h2>Looking back over the project <br></h2>
+<section id="looking-back" class="slide level2">
+<h2>Looking back <br></h2>
 <ul>
 <li class="fragment">Focus on response, rather than cross-sectional methylation status</li>
-<li class="fragment">Real-world studies are also challenging - most are short term</li>
-<li class="fragment">Median study duration 6 weeks, maximum 13 weeks</li>
+<li class="fragment">Real-world studies are also challenging</li>
+<li class="fragment">Median study duration 6 weeks, maximum 13 weeks (PMID:37159349)</li>
 <li class="fragment">Treatment discontinuation rate (TDR) lower for monotherapy vs polypharmacy</li>
-<li class="fragment">Risperidone highest TDR and shortest Time to discontinuation (TTD)</li>
+<li class="fragment">Risperidone highest TDR and shortest Time to discontinuation (TTD) (PMID: 35770081)</li>
 </ul>
 <div class="footer">
-<p>Leucht <strong>et al.</strong> World Psychiatry, 2023; Zhang <strong>et al.</strong> Frontiers in Pharmacology, 2022</p>
+<p>Leucht et al.(2013) <strong>World Psychiatry</strong>; Zhang et al.(2022) <strong>Frontiers in Pharmacology</strong>, 2022</p>
 </div>
 </section>
-<section class="slide level2">
-
-
-<img data-src="img/Sample_Selection.png" class="r-stretch"><div class="footer">
-<p>Martens Summer Seminar June 17, 2024</p>
-</div>
+<section id="sample-selection" class="slide level2">
+<h2>Sample Selection</h2>
+<p><img data-src="img/Sample_Selection.500.png">{width 16 height 9}</p>
 </section>
-<section id="antipsychotics" class="slide level2">
-<h2>Antipsychotics <br></h2>
-<div>
-<ul>
-<li>Acute phase: Often very effective<br></li>
-<li>Long term: health problems, cognitive decline,<br> reduced effect<br></li>
-<li>Efficacy: D2/D3 receptor antagonism <br></li>
-<li>Side effects: multiple receptor targets<br></li>
-<li>Therapeutic advances target dopamine/glutamate</li>
-</ul>
-</div>
-<div class="footer">
-<p>Martens Group Retreat</p>
-</div>
-</section>
-<section id="the-synapse-in-psychosis" class="slide level2">
-<h2>The Synapse in Psychosis</h2>
-<div class="footer">
-<p>Figure:</p>
-</div>
-</section>
-<section class="slide level2">
-
-</section>
-<section id="the-environment-and-dnam" class="slide level2">
-<h2>The Environment and DNAm</h2>
-<p>{fig-align=“center”}</p>
-<div class="footer">
-<p>Fig. adapted from Tzika, Dreker, Imhof, 2018, <strong><em>Frontiers in Genetics</em></strong></p>
-</div>
-</section>
-<section id="the-path-to-methylation" class="slide level2">
-<h2>The Path to Methylation</h2>
-<p>{fig-align=“center”}</p>
-</section>
-<section id="dna-methylation-antipsychotics" class="slide level2">
-<h2>DNA Methylation &amp; Antipsychotics <br> <br></h2>
-<p>
-<span class="highlight">Olanzapine, Quetiapine, Risperidone</span>
-</p>
-<div>
-<ul>
-<li><p>Aim 1: To identify common and specific effects on DNA methylation mediated by these APs.</p></li>
-<li><p>Aim 2: Will characterizing variation in methylation contribute to Aim 1?</p></li>
-</ul>
-</div>
-<div class="footer">
-<p>Martens Summer Seminar June 17, 2024</p>
-</div>
-</section>
-<section id="methods-sample-selection" class="slide level2 nostretch">
-<h2>Methods: Sample Selection</h2>
-<p>{width=“45%” fig-align=“center”}</p>
-</section>
-<section id="methods-models" class="slide level2">
-<h2>Methods: Models</h2>
-<p>Adjustment for both: <br> Age + Sex + Smoking Score + Diagnosis + Technical + eCells</p>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p><br></p>
-<p>
-<span class="highlight">Common Effects</span>
-</p>
-<p><br></p>
-<p>Quantitative (n=136) <br> <br></p>
-<p>DNAm ~ AP serum values</p>
-</div><div class="column" style="width:50%;">
-<p><br></p>
-<p>
-<span class="highlight">Specific Effects</span>
-</p>
-<p><br></p>
-<p>Categorical (n=259) <br> <br></p>
-<p>DNAm ~ AP vs.&nbsp;<br> (2 APs + Med-free)</p>
-</div>
-</div>
-</section>
-<section id="ewas-and-regional-analyses" class="slide level2">
-<h2>EWAS and Regional Analyses</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p>
-<span class="highlight">Differentially Methylated (DMRs)</span>
-</p>
-<p><br> * Detects mean difference between tissues <br><br> * Parameters: 500 bp, <br> min. 4 CpGs, FDR 0.05</p>
-</div><div class="column" style="width:50%;">
-<p>
-<span class="highlight">Variably Methylated (VMRs)</span>
-</p>
-<p><br> <br> * Detects difference in variance within a tissue <br><br> * Parameters: 1000 bp, <br> min. 10 CpGs, C2, FDR 0.05</p>
-</div>
-</div>
-<div class="footer">
-<p>R packages: DMRs - <em>dmrff</em>, Suderman, 2018,</p>
-</div>
-</section>
-<section id="results-common-effects---dmrs" class="slide level2">
-<h2>Results: Common Effects - DMRs</h2>
-<p>{fig-align=“center”}</p>
-</section>
-<section id="results-shank2" class="slide level2">
-<h2>Results: <em>SHANK2</em> <br></h2>
-<p>SH3 and multiple ankyrin repeat domains 2 <br><br></p>
-<p>Synaptic Gene Ontologies Database</p>
-<p>
-<span class="highlight">GO terms:</span>
-</p>
-<div>
-<ul>
-<li>postsynaptic density (GO:0014069) <br></li>
-<li>regulation of postsynapse organization (GO:0099175) <br></li>
-<li>structural constituent of postsynaptic density (GO:0098919) <br> <br></li>
-</ul>
-</div>
-<p>Using Enrichr for gene set enrichment analysis, we identified significant enrichment of synaptic genes in our dataset. The gene set was sourced from the SynGO 2024 database.</p>
-<p><strong>Citations:</strong> - Enrichr: Chen EY, Tan CM, Kou Y, Duan Q, Wang Z, Meirelles GV, Clark NR, Ma’ayan A. Enrichr: interactive and collaborative HTML5 gene list enrichment analysis tool. BMC Bioinformatics. 2013;14:128. doi:10.1186/1471-2105-14-128. - SynGO: Koopmans F, van Nierop P, Andres-Alonso M, Byrnes A, Cijsouw T, Coba MP, et al.&nbsp;SynGO: An Evidence-Based, Expert-Curated Knowledge Base for the Synapse. Neuron. 2019;103(2):217-234.e4. doi:10.1016/j.neuron.2019.05.002.</p>
-<div class="footer">
-<p>https://www.syngoportal.org/</p>
-</div>
-</section>
-<section id="results-the-shank2-dmr" class="slide level2">
-<h2>Results: The <em>SHANK2</em> DMR</h2>
-
-<img data-src="img/SerumValues_SHANK2.png" class="r-stretch"></section>
-<section id="results-common-effects---vmrs" class="slide level2">
-<h2>Results: Common Effects - VMRs<br><br></h2>
-<div class="footer">
-<p>Martens Summer Seminar June 17, 2024</p>
-</div>
-</section>
-<section class="slide level2">
-
-<p>
-<span class="highlight"><em>TNXB</em> (Tenascin-XB)</span>
-</p>
-<p>chr6 MHC (class III region)</p>
-<div class="quarto-layout-panel" data-layout-ncol="1">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
-<p><img data-src="img/TNXB_ref.png"></p>
-</div>
-</div>
-</div>
-</section>
-<section id="results-specific-effects---dmrs" class="slide level2">
-<h2>Results: Specific Effects - DMRs<br></h2>
-<p>![]</p>
-</section>
-<section id="results-specific-effects---vmrs" class="slide level2">
-<h2>Results: Specific Effects - VMRs<br></h2>
-<p>!{width=“60%”}</p>
-</section>
-<section id="conclusion" class="slide level2">
-<h2>Conclusion</h2>
-<div>
-<ul>
-<li class="fragment"><p>The common effects of APs on <strong><em>SHANK2</em></strong> expression and glutamate receptor function may be mediated by DNAm.</p></li>
-<li class="fragment"><p>Identification of the specific effects may need larger sample sizes.</p></li>
-<li class="fragment"><p>GxE interactions are implicated in up to 75% of VMRs (Epigenomics of Common Diseases 2023).</p></li>
-</ul>
-</div>
-<div class="footer">
-<p>Martens Summer Seminar June 17, 2024</p>
-</div>
-</section>
-<section id="acknowledgements" class="slide level2">
-<h2>Acknowledgements</h2>
-<p>Stéphanie, Anne-Kristin, You all!, Have a great summer!</p>
-
-<img data-src="img/Watermelon.jpeg" class="quarto-figure quarto-figure-center r-stretch"></section>
-<section class="slide level2">
-
+<section id="section" class="slide level2">
+<h2></h2>
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
