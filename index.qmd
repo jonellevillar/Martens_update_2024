@@ -45,7 +45,12 @@ Leucht et al.(2013) **World Psychiatry**; Zhang et al.(2022) **Frontiers in Phar
 
 ::::
 
-## Differentially Methylated Regions 
+## Results
+
+- Differentially methylated region analysis (DMRs)
+- Database investigation of DMR-annotated genes
+
+## Common Effects Analysis n=136 {.smaller}
 
 :::: columns
 
@@ -57,7 +62,9 @@ Leucht et al.(2013) **World Psychiatry**; Zhang et al.(2022) **Frontiers in Phar
 
 ::: {.column width="30%"}
 
-<br> Common Effects <br><br> Meta-analysis EWAS results <br><br> n = 136
+<br> Meta-analysis EWAS results<br>
+<br> 22 DMRs FDR < 0.05 <br><br> 
+16 DMRs FDR < 0.01 <br><br>  
 
 :::
 
