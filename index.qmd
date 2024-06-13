@@ -25,11 +25,26 @@ incremental: true
 Leucht et al.(2013) **World Psychiatry**; Zhang et al.(2022) **Frontiers in Pharmacology**, 2022
 :::
 
-## Sample Selection 
+## Sample Selection {.smaller}
 
+:::: columns
 
-![](img/Sample_Selection.500.png){width 16 height 9}
+::: {.column width="40%"}
 
+![](img/Sample_Selection.500.png){.absolute top=90 width=300px}
+
+:::
+
+::: {.column width="60%"}
+<br>
+<p>[SCZ, BPD, MDD]{.highlight}</p>
+
+<br> Same monotherapy AP samples for both groups <br><br> Olanzapine, Quetiapine, Risperidone <br><br> Included Med-free in Specific Effects group    
+
+:::
+
+::::
 
 ## 
+
 
