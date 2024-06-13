@@ -1,0 +1,181 @@
+---
+title: "Final Update Antipsychotics Project"
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+incremental: true
+editor: source
+
+---
+## "Differentially Methylated Regions <br> associated with antipsychotic treatment <br> <br> <br> <br> <br> Martens Summer Seminar <br> June 17, 2024" {background-color="black" background-image="img/summerFlowers.jpg" background-size="cover" background-opacity="0.7"}
+
+---
+
+## Looking back <br>
+
+-   Focus on response, rather than cross-sectional methylation status
+-   Real-world studies are also challenging
+-   Median study duration 6 weeks, maximum 13 weeks (PMID:37159349)
+-   Treatment discontinuation rate (TDR) lower for monotherapy vs polypharmacy
+-   Risperidone highest TDR and shortest Time to discontinuation (TTD) (PMID: 35770081)
+
+::: footer
+Leucht et al.(2013) **World Psychiatry**; Zhang et al.(2022) **Frontiers in Pharmacology**, 2022
+:::
+
+---
+#Sample Selection 
+:::
+
+::: {.column width="50%"}
+
+
+
+:::
+
+::: {.column width="50%"}
+
+- Same samples for both groups
+- Medication-free added to Specific Effects group
+- Monotherapy with olanzapine, quetiapine, risperidone
+:::
+
+:::
+
+---
+
+## Differentially Methylated Region (DMR) Analysis  <br>
+
+::: nonincremental
+-   Aim 1: To identify DMRs associated with the common and specific effects mediated by these APs.
+
+:::
+
+::: footer
+Martens Summer Seminar June 17, 2024
+:::
+
+
+---
+
+## DNA Methylation & Antipsychotics <br> <br>
+
+<p>[Olanzapine, Quetiapine, Risperidone]{.highlight}</p>
+
+::: nonincremental
+
+
+:::
+
+::: footer
+Martens Summer Seminar June 17, 2024
+:::
+
+---
+
+## Methods: Sample Selection {.nostretch}
+
+{width="45%" fig-align="center"}
+
+---
+
+## Methods: Models
+
+
+---
+
+## EWAS and Regional Analyses
+
+::: columns
+::: {.column width="50%"}
+<p>[Differentially Methylated (DMRs)]{.highlight}</p>
+
+<br> \* Detects mean difference between tissues <br><br> \* Parameters: 500 bp, <br> min. 4 CpGs, FDR 0.05
+:::
+
+::: {.column width="50%"}
+<p>[Variably Methylated (VMRs)]{.highlight}</p>
+
+<br> <br> \* Detects difference in variance within a tissue <br><br> \* Parameters: 1000 bp, <br> min. 10 CpGs, C2, FDR 0.05
+:::
+:::
+
+::: footer
+R packages: DMRs - *dmrff*, Suderman, 2018,
+:::
+
+---
+
+## Results: Common Effects - DMRs
+
+{fig-align="center"}
+
+---
+
+## Results: *SHANK2* <br>
+
+SH3 and multiple ankyrin repeat domains 2 <br><br>
+
+Synaptic Gene Ontologies Database
+
+<p>[GO terms:]{.highlight}</p>
+
+::: nonincremental
+-   postsynaptic density (GO:0014069) <br>
+-   regulation of postsynapse organization (GO:0099175) <br>
+-   structural constituent of postsynaptic density (GO:0098919) <br> <br>
+:::
+
+Using Enrichr for gene set enrichment analysis, we identified significant enrichment of synaptic genes in our dataset. The gene set was sourced from the SynGO 2024 database.
+
+**Citations:** - Enrichr: Chen EY, Tan CM, Kou Y, Duan Q, Wang Z, Meirelles GV, Clark NR, Ma'ayan A. Enrichr: interactive and collaborative HTML5 gene list enrichment analysis tool. BMC Bioinformatics. 2013;14:128. doi:10.1186/1471-2105-14-128. - SynGO: Koopmans F, van Nierop P, Andres-Alonso M, Byrnes A, Cijsouw T, Coba MP, et al. SynGO: An Evidence-Based, Expert-Curated Knowledge Base for the Synapse. Neuron. 2019;103(2):217-234.e4. doi:10.1016/j.neuron.2019.05.002.
+
+::: footer
+https://www.syngoportal.org/
+:::
+
+---
+
+## Results: The *SHANK2* DMR
+
+![](img/SerumValues_SHANK2.png)
+
+---
+
+
+## Results: Specific Effects - DMRs<br>
+
+\[\]{width="60%"}
+
+---
+
+## Results: Specific Effects - VMRs<br>
+
+!{width="60%"}
+
+---
+
+## Conclusion
+
+::: incremental
+-   The common effects of APs on ***SHANK2*** expression and glutamate receptor function may be mediated by DNAm.
+
+-   Identification of the specific effects may need larger sample sizes.
+
+-   GxE interactions are implicated in up to 75% of VMRs (Epigenomics of Common Diseases 2023).
+:::
+
+::: footer
+Martens Summer Seminar June 17, 2024
+:::
+
+---
+
+## Acknowledgements
+
+Stéphanie, Anne-Kristin, You all!, Have a great summer!
+
+![](img/Watermelon.jpeg){fig-align="center"}
+
+---
