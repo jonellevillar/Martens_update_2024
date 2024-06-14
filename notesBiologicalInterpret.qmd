@@ -1,0 +1,76 @@
+---
+title: "Final Update Antipsychotics Project"
+subtitle: "I´m so glad &#x1F602;&#x1F44F;"
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+editor: source
+incremental: true
+
+---
+## Differentially Methylated Regions <br> associated with antipsychotic treatment <br> <br> <br> <br> <br> Martens Summer Seminar <br> June 17, 2024 {background-color="black" background-image="img/summerFlowers.jpg" background-size="cover" background-opacity="0.7"}
+
+
+
+## Looking back <br>
+
+-   Focus on response, rather than cross-sectional methylation status
+-   Real-world studies are also challenging
+-   Median study duration 6 weeks, maximum 13 weeks (PMID:37159349)
+-   Treatment discontinuation rate (TDR) lower for monotherapy vs polypharmacy
+-   Risperidone highest TDR and shortest Time to discontinuation (TTD) (PMID: 35770081)
+
+::: footer
+Leucht et al.(2013) **World Psychiatry**; Zhang et al.(2022) **Frontiers in Pharmacology**, 2022
+:::
+
+## Sample Selection 
+
+
+![](img/Sample_Selection.500.png){width 16 height 9}
+
+
+## EpiFactors database
+
+EpiFactors is a web-accessible database that provides curated information on human proteins and protein complexes involved in epigenetic regulatory mechanisms, such as 
+- DNA methylation e.g. DNA methyltransferases, demethylases
+- Histone modifications - e.g. histone acetyltransferases, deacetylases, methyltransferases, demethylases
+- Chromatin remodeling - e.g. SWI/SNF complexes, ISWI complexes
+- Other epigenetic regulators - e.g. Polycomb/Trithorax group proteins
+
+Its focus is on cataloging the enzymes, complexes and other factors that catalyze or regulate different types of epigenetic modifications.
+
+## Illumina EPIC methylation array
+Measures DNAm on over 850,000 CPG sites across the humna genome,  It does not directly measure histone modifications like methylation or acetylation. 
+
+
+The reason some of the genes annotated to differentially methylated regions (DMRs) from the EPIC array data are identified as corresponding to epigenetic factors like histone methyltransferases and acetyltransferases is likely because:
+
+-Many epigenetic regulators (e.g. histone modifying enzymes) can influence DNAm patterns indirectly through their effects on chromatin state and gene regulation.
+
+- There is cross-talk between different epigenetic mechanisms like DNA methylation, histone modifications, chromatin remodeling, etc. Changes in one can impact the others.
+
+- Genes encoding histone modifying enzymes may themselves be regulated by DNA methylation, so differentially methylated regions could be associated with altered expression of these epigenetic factors.
+
+- A DMR associated gene could be linked to a histone modifier in this database based on known or predicted functional relationships.
+
+## Biological Interpretation 
+
+collection of biological processes and signaling pathways 
+
+
+Based on the information provided in the search results, biological interpretation of genes identified in epigenome-wide association studies (EWAS) is important, but also challenging and requires careful consideration of potential confounding factors and limitations. Here are the key points regarding the importance and challenges of interpreting EWAS results:
+Importance of Biological Interpretation
+
+EWAS can identify novel genes and pathways associated with complex traits that may not be detected by genetic studies (GWAS) alone. Interpreting the biological roles of these genes could provide insights into disease mechanisms and etiology.
+Understanding the biological consequences of differential DNA methylation identified in EWAS could help elucidate how epigenetic changes influence gene regulation and contribute to phenotypic variation.
+Biological interpretation may aid in translating EWAS findings into potential clinical applications, such as identifying biomarkers for disease diagnosis, prognosis, or predicting health outcomes.
+
+Challenges and Limitations.
+
+EWAS results may be confounded by factors like cell-type heterogeneity, genetic influences, or reverse causation, making it difficult to determine if the identified DNA methylation changes are causal or consequential. (3,5)
+Unlike genetic variants, DNA methylation patterns can change over an individual's lifetime, making it harder to establish the direction of causality between methylation and the trait of interest. (3)
+There is often little overlap between genes and pathways identified by EWAS and GWAS of the same trait, suggesting that EWAS may be capturing different biological information that is not directly related to the causal genetic factors. (5)
+Interpreting EWAS results can be challenging due to the complexity of epigenetic mechanisms and the difficulty in establishing where DNA methylation changes lie on the causal pathway between genotype, gene expression, and phenotype. (5)
+Comparing EWAS results to existing biological knowledge derived from GWAS may not yield much insight, as EWAS and GWAS appear to prioritize different aspects of disease biology.
