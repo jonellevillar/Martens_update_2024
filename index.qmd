@@ -13,17 +13,31 @@ incremental: true
 
 
 
-## Looking back <br>
+## Aim: identification of treatment effects <br>
 
--   Focus on response, rather than cross-sectional methylation status
--   Real-world studies are also challenging
--   Median study duration 6 weeks, maximum 13 weeks (PMID:37159349)
--   Treatment discontinuation rate (TDR) lower for monotherapy vs polypharmacy
--   Risperidone highest TDR and shortest Time to discontinuation (TTD) (PMID: 35770081)
+-  Olanzapine, quetiapine, risperidone 
+- Our focus - DNA methylation (CpG or DMR level) 
+- Epigenetic dysregulation in severe mental illness has been studied in all stages of development  as well as the pharma used to treat. 
+-  Epigenetic modifications associated with treatment may also act as predictors of treatment response. (Hannon 2016)!
 
 ::: footer
-Leucht et al.(2013) **World Psychiatry**; Zhang et al.(2022) **Frontiers in Pharmacology**, 2022
+Hannon
 :::
+
+## Dysregulation of epigenetic processes 
+
+
+![](img/Smigielski.png)
+
+##
+
+
+Dysregulation of epigenetic processes has been demonstrated in SCZ - not only in clinical studies, but also in animal models, cell lines, and postmortem brain studies. Not only DNAm. Epigenetic regulation is important, particularly during brain development (pre- and postnatally).  Epigenetic modifications are aslo involved in maintenance of sex differences in the brain (99) which may explain differences in susceptibility, onset, pathogenesis, and severity of SCZ between males and females (100). 
+
+## TXT response
+
+Epigenetic modifications that are associated with txt may also act as predictors of txt response. (Hannon 2016)!
+
 
 ## Sample Selection {.smaller}
 
@@ -78,7 +92,7 @@ Model: 𝛽 ~ AP vs (Other AP + MF) + Sex + Age + Smoking score + Diagnosis + Te
 
 ::::
 
-## Specific Effects Analysis n=263 {.smaller}
+## Specific Effects Analysis n=263 <br><br>
 
 ![](img/SpecificDMRs.png)
 
@@ -88,9 +102,4 @@ Model: 𝛽 ~ AP vs (Other AP + MF) + Sex + Age + Smoking score + Diagnosis + Te
 
 ## EpiFactors 2022
 
-Dysregulation of epigenetic processes has been demonstrated in SCZ - not only in clinical studies, but also in animal models, cell lines, and postmortem brain studies. Not only DNAm. Epigenetic regulation is imiportant, particularly during brain development (pre- and postnatally).  Epigenetic modifications are aslo involved in maintenance of sex differences in the brain (99) which may explain differences in susceptibility, onset, pathogenesis, and severity of SCZ between males and females (100). 
-
-## TXT response
-
-Epigenetic modifications that are associated with txt may also act as predictors of txt response. (Hannon 2016)!
 
