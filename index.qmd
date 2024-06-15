@@ -13,18 +13,18 @@ incremental: true
 
 
 
-## Aim: identification of treatment effects <br>
+## Aim: Identification of treatment effects <br>
 
 -  Olanzapine, quetiapine, risperidone 
-- Our focus - DNA methylation (CpG or DMR level) 
-- Epigenetic dysregulation in severe mental illness has been studied in all stages of development  as well as the pharma used to treat. 
--  Epigenetic modifications associated with treatment may also act as predictors of treatment response. (Hannon 2016)!
+-  Our focus - DNA methylation (CpG or DMR level) 
+-  Epigenetic dysregulation in severe mental illness has been studied in all stages of development  as well as the pharma used to treat. 
+-  Effect of antipsychotic drugs on DNAm is humans, animals, and cell lines.
 
 ::: footer
-Hannon
+Martens Summer Seminar 2024
 :::
 
-## Dysregulation of epigenetic processes 
+## Epigenetic Modifications/Factors 
 
 
 ![](img/Smigielski.png)
@@ -72,7 +72,7 @@ Model: 𝛽 ~ AP vs (Other AP + MF) + Sex + Age + Smoking score + Diagnosis + Te
 - Database investigation of DMR-annotated genes e.g. SynGO, GeneTrail 3.2, EpiFactors 2022
 
 
-## Common Effects Analysis n=136 {.smaller}
+## Results: Common Effects Analysis n=136 {.smaller}
 
 :::: columns
 
@@ -92,14 +92,34 @@ Model: 𝛽 ~ AP vs (Other AP + MF) + Sex + Age + Smoking score + Diagnosis + Te
 
 ::::
 
-## Specific Effects Analysis n=263 <br><br>
+## Results: Specific Effects Analysis n=263 <br><br>
 
 ![](img/SpecificDMRs.png)
 
-## Database search of DMR genes 
 
-- SynGO: Synaptic 
 
-## EpiFactors 2022
+## Database investigation of DMR genes<br><br>
 
+Over-representation analysis
+
+
+![](img/GeneTrail3.2.png)
+
+
+
+## Database investigation of DMR genes <br><br>
+
+Synaptic gene ontology
+
+![](img/SynGO.png)
+
+
+## Database investigation of DMR genes <br><br>
+
+For epigenetic factors - methylation, acetylation 
+
+![](img/EpiFactors.png)
+
+
+## Results 
 
