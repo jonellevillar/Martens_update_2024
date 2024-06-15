@@ -48,7 +48,8 @@ Leucht et al.(2013) **World Psychiatry**; Zhang et al.(2022) **Frontiers in Phar
 ## Results
 
 - Differentially methylated region analysis (DMRs)
-- Database investigation of DMR-annotated genes
+- Database investigation of DMR-annotated genes e.g. SynGO, GeneTrail 3.2, EpiFactors 2022
+
 
 ## Common Effects Analysis n=136 {.smaller}
 
@@ -70,6 +71,19 @@ Leucht et al.(2013) **World Psychiatry**; Zhang et al.(2022) **Frontiers in Phar
 
 ::::
 
-##
+## Specific Effects Analysis n=263 {.smaller}
 
+
+
+## Database search of DMR genes 
+
+- SynGO: Synaptic 
+
+## EpiFactors 2022
+
+Dysregulation of epigenetic processes has been demonstrated in SCZ - not only in clinical studies, but also in animal models, cell lines, and postmortem brain studies. Not only DNAm. Epigenetic regulation is imiportant, particularly during brain development (pre- and postnatally).  Epigenetic modifications are aslo involved in maintenance of sex differences in the brain (99) which may explain differences in susceptibility, onset, pathogenesis, and severity of SCZ between males and females (100). 
+
+## TXT response
+
+Epigenetic modifications that are associated with txt may also act as predictors of txt response. (Hannon 2016)!
 
