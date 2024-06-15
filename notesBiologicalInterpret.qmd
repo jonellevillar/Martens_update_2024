@@ -10,6 +10,7 @@ incremental: true
 
 ---
 {.fragment width="450" height="300"}
+{.fragment width="300" height="450"}
 
 ## Looking back <br>
 
