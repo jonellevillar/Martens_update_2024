@@ -160,7 +160,7 @@ Interacts with dopamine system, glutamate signaling, & neuroinflamation (Vallée
 ::::
 
 ::: footer
-Zhang (2023) Nature Communications 
+Martins Summer Seminar 2024
 :::
 
 
@@ -197,14 +197,13 @@ Genes associated with transcriptionally active chromatin
 
 ## Discussion/Conclusion
 
-- Small sample sizes when selecting monotherapy
 - 22 DMRs (FDR < 0.05) associated with Common Effects
 - Significant association with epigenetic factors
-- Do AP mediate 
+- Do AP mediate/ameliorate epigenetic dysregulation? 
 
 
 ::: footer
-
+Martins Summer Seminar 2024
 :::
 
 ## Acknowledgements
