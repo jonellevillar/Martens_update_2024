@@ -99,8 +99,6 @@ Model: 𝛽 ~ AP vs (Other AP + MF) + Sex + Age + Smoking score + Diagnosis + Te
 
 ## Database investigation of DMR genes<br><br>
 
-Over-representation analysis
-
 
 ![](img/GeneTrail3.2.png)
 
@@ -110,8 +108,6 @@ Martens Summer Seminar 2024
 
 ## Database investigation of DMR genes <br><br>
 
-Synaptic gene ontology
-
 ![](img/SynGO.png)
 
 ::: footer
@@ -120,12 +116,18 @@ Martens Summer Seminar 2024
 
 ## Database investigation of DMR genes <br><br>
 
-For epigenetic factors - methylation, acetylation 
 
 ![](img/EpiFactors.png)
 
 ::: footer
 Martens Summer Seminar 2024
 :::
-## Results 
+## Results EpiFactors 2022
 
+Genes associated with chromatin compaction/gene silencing
+
+![](img/CommonEffects_EpiFactors.png)
+
+##
+
+## 
