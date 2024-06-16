@@ -17,8 +17,8 @@ incremental: true
 
 -  Olanzapine, quetiapine, risperidone 
 -  Our focus - DNA methylation (CpG or DMR level) 
--  Epigenetic dysregulation in severe mental illness is complex
--  Evidence from animal models and cells lines
+-  Characterization of epigenetic dysregulation in severe mental illness is complex
+
 
 ::: footer
 Martens Summer Seminar 2024
@@ -29,15 +29,9 @@ Martens Summer Seminar 2024
 
 ![](img/Smigielski.png)
 
-##
-
-![](img/Smigielski.png)
-
-## 
-
 
 ::: footer
-Martens Summer Seminar 2024
+Image credit: Smigielski, _et al_, Molecular Psychiatry, 2020
 :::
 
 ## Sample Selection {.smaller}
