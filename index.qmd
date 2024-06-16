@@ -139,7 +139,7 @@ Genes associated with chromatin compaction/gene silencing
 
 ## Results: Specific Effects Olanzapine
 
-Genes associated with methyltransferases/gene silencing
+Genes associated with transcription, DNA repair, replication
 
 ![](img/Ola_EpiFactors.png)
 
@@ -150,7 +150,7 @@ Genes associated with methyltransferases/gene silencing
 
 ## Results: Specific Effects Quetiapine
 
-Genes associated with 
+Genes associated with chromatin remodeling complexes
 
 ![](img/Que_EpiFactors.png)
 
@@ -160,7 +160,7 @@ Genes associated with
 
 ## Results: Specific Effects Risperidone
 
-Genes associated with chromatin easing/gene transcription
+Genes associated with transcriptionally active chromatin
 
 ![](img/Ris_EpiFactors.png)
 
