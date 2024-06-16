@@ -17,8 +17,8 @@ incremental: true
 
 -  Olanzapine, quetiapine, risperidone 
 -  Our focus - DNA methylation (CpG or DMR level) 
--  Epigenetic dysregulation in severe mental illness has been studied in all stages of development  as well as the pharma used to treat. 
--  Effect of antipsychotic drugs on DNAm is humans, animals, and cell lines.
+-  Epigenetic dysregulation in severe mental illness is complex
+-  Evidence from animal models and cells lines
 
 ::: footer
 Martens Summer Seminar 2024
@@ -31,7 +31,9 @@ Martens Summer Seminar 2024
 
 ##
 
+![](img/Smigielski.png)
 
+## 
 Dysregulation of epigenetic processes has been demonstrated in SCZ - not only in clinical studies, but also in animal models, cell lines, and postmortem brain studies. Not only DNAm. Epigenetic regulation is important, particularly during brain development (pre- and postnatally).  Epigenetic modifications are aslo involved in maintenance of sex differences in the brain (99) which may explain differences in susceptibility, onset, pathogenesis, and severity of SCZ between males and females (100). 
 
 ::: footer
@@ -166,3 +168,13 @@ Genes associated with chromatin easing/gene transcription
 [EpiFactors](https://epifactors.autosome.org)
 :::
 
+## Discussion/Conclusion
+
+- Real world studies also challenging
+- Median study duration 6 weeks, maximum 13 weeks (PMID:37159349)
+- 
+
+
+::: footer
+Leucht et al.(2013) **World Psychiatry**
+:::
