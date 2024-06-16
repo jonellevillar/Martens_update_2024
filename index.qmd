@@ -55,7 +55,7 @@ Image credit: Smigielski _et al_, Molecular Psychiatry, 2020
 
 ::::
 
-## Methods
+## Methods{.smaller}
 
 - Common Effects<br>
 Model: 𝛽 ~ AP-serum + Sex + Age + Smoking score + Diagnosis + Technical batch + Cell counts <br><br> 
@@ -63,9 +63,9 @@ Model: 𝛽 ~ AP-serum + Sex + Age + Smoking score + Diagnosis + Technical batch
 - Specific Effects<br>
 Model: 𝛽 ~ AP vs (2 APs + MF) + Sex + Age + Smoking score + Diagnosis + Technical batch + Cell counts <br><br> 
 
-- Differentially methylated region analysis (DMRs) __dmrff__
+- Differentially methylated region analysis (DMRs) __dmrff__<br>
 
-- Database investigation of DMR-annotated genes e.g. SynGO, GeneTrail 3.2, EpiFactors 2022
+- Database investigation of DMR-annotated genes e.g. GeneTrail 3.2, SynGO, Enrichr, EpiFactors 2022
 
 
 ## Results: Common Effects Analysis n=136 {.smaller}
