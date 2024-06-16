@@ -72,7 +72,7 @@ Model: 𝛽 ~ AP vs (2 APs + MF) + Sex + Age + Smoking score + Diagnosis + Techn
 Martens Summer Seminar 2024
 ::: 
 
-## Results: Common Effects Analysis n=136 {.smaller}
+## Results: DMRs - Common Effects {.smaller}
 
 :::: columns
 
@@ -92,7 +92,7 @@ Martens Summer Seminar 2024
 
 ::::
 
-## Results: Specific Effects Analysis n=263 <br><br>
+## Results: DMRs - Specific Effects  <br><br>
 
 ![](img/SpecificDMRs.png)
 
