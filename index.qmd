@@ -170,8 +170,8 @@ Genes associated with transcriptionally active chromatin
 ## Discussion/Conclusion
 
 - Small sample sizes when selecting monotherapy
-- Real world studies also challenging
-- Median study duration 6 weeks, maximum 13 weeks (PMID:37159349)
+- We identified 22 DMRs (FDR < 0.05) associated with Common Effects
+- 
 - 
 
 
@@ -186,4 +186,6 @@ Stéphanie, Anne-Kristin, You all!  Have a great summer!
 ![](img/Watermelon.jpeg){fig-align="center"}
 
 
+##
 
+![](img/KDM2B_DMR.png)
