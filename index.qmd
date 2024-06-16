@@ -178,3 +178,12 @@ Genes associated with transcriptionally active chromatin
 ::: footer
 Leucht et al.(2013) **World Psychiatry**
 :::
+
+## Acknowledgements
+
+Stéphanie, Anne-Kristin, You all!  Have a great summer!
+
+![](img/Watermelon.jpeg){fig-align="center"}
+
+##
+
