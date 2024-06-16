@@ -34,7 +34,7 @@ Martens Summer Seminar 2024
 ![](img/Smigielski.png)
 
 ## 
-Dysregulation of epigenetic processes has been demonstrated in SCZ - not only in clinical studies, but also in animal models, cell lines, and postmortem brain studies. Not only DNAm. Epigenetic regulation is important, particularly during brain development (pre- and postnatally).  Epigenetic modifications are aslo involved in maintenance of sex differences in the brain (99) which may explain differences in susceptibility, onset, pathogenesis, and severity of SCZ between males and females (100). 
+
 
 ::: footer
 Martens Summer Seminar 2024
