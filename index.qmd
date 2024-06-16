@@ -122,12 +122,47 @@ Martens Summer Seminar 2024
 ::: footer
 Martens Summer Seminar 2024
 :::
-## Results EpiFactors 2022
+
+## Results: Common Effects
 
 Genes associated with chromatin compaction/gene silencing
 
 ![](img/CommonEffects_EpiFactors.png)
 
-##
 
-## 
+
+::: footer
+[EpiFactors](https://epifactors.autosome.org)
+:::
+
+## Results: Specific Effects Olanzapine
+
+Genes associated with methyltransferases/gene silencing
+
+![](img/Ola_EpiFactors.png)
+
+
+::: footer
+[EpiFactors](https://epifactors.autosome.org)
+:::
+
+## Results: Specific Effects Quetiapine
+
+Genes associated with 
+
+![](img/Que_EpiFactors.png)
+
+::: footer
+[EpiFactors](https://epifactors.autosome.org)
+:::
+
+## Results: Specific Effects Risperidone
+
+Genes associated with chromatin easing/gene transcription
+
+![](img/Ris_EpiFactors.png)
+
+::: footer
+[EpiFactors](https://epifactors.autosome.org)
+:::
+
