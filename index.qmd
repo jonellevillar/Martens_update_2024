@@ -150,9 +150,9 @@ Genes associated with chromatin compaction/gene silencing
 <br>Represses hippocampal Wnt signalling genes (Zhang _et al_, 2023)<br><br>
 Crucial for neuronal development and morphogenesis <br><br>
 
-Abnormal expression in SCZ & BPD (Hoseth _et al_, 2018)<br><br>
+Abnormal expression reported in SCZ & BPD (Hoseth _et al_, 2018)<br><br>
 
-Interacts with dopamine system, glutamate signaling, & neuroinflamation (Vallée,  2022). 
+Interact with dopamine system, glutamate signaling, & neuroinflamation (Vallée,  2022). 
 
 
 :::
@@ -195,7 +195,7 @@ Genes associated with transcriptionally active chromatin
 [EpiFactors](https://epifactors.autosome.org)
 :::
 
-## Discussion/Conclusion
+## Discussion/Conclusion <br>
      
 - 22 DMRs (FDR < 0.05) associated with Common Effects
 - Significant association with epigenetic factors
