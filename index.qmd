@@ -135,12 +135,32 @@ Genes associated with chromatin compaction/gene silencing
 [EpiFactors](https://epifactors.autosome.org)
 :::
 
-## Results: Plotting *KDM2B*
+## Results: Plotting *KDM2B* {.smaller}
+
+:::: columns
+
+:::{.column width="60%"}
 
 ![](img/KDM2B_DMR.png)
 
+:::
+
+:::{.column width="40%"}
+
+<br>Represses hippocampal Wnt signalling genes (Zhang _et al_, 2023)<br><br>
+Crucial for neuronal development and morphogenesis <br><br>
+
+Abnormal expression in SCZ & BPD (Hoseth _et al_, 2018)<br><br>
+
+Interacts with dopamine system, glutamate signaling, & neuroinflamation (Vallée,  2022). 
+
+
+:::
+
+::::
+
 ::: footer
-Martens Summer Seminar 2024
+Zhang (2023) Nature Communications 
 :::
 
 
