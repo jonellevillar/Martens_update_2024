@@ -131,10 +131,18 @@ Genes associated with chromatin compaction/gene silencing
 ![](img/CommonEffects_EpiFactors.png)
 
 
-
 ::: footer
 [EpiFactors](https://epifactors.autosome.org)
 :::
+
+## Results: Plotting *KDM2B*
+
+![](img/KDM2B_DMR.png)
+
+::: footer
+Martens Summer Seminar 2024
+:::
+
 
 ## Results: Specific Effects Olanzapine
 
@@ -170,13 +178,13 @@ Genes associated with transcriptionally active chromatin
 ## Discussion/Conclusion
 
 - Small sample sizes when selecting monotherapy
-- We identified 22 DMRs (FDR < 0.05) associated with Common Effects
-- 
-- 
+- 22 DMRs (FDR < 0.05) associated with Common Effects
+- Significant association with epigenetic factors
+- Do AP mediate 
 
 
 ::: footer
-Leucht et al.(2013) **World Psychiatry**
+
 :::
 
 ## Acknowledgements
@@ -186,6 +194,5 @@ Stéphanie, Anne-Kristin, You all!  Have a great summer!
 ![](img/Watermelon.jpeg){fig-align="center"}
 
 
-##
 
-![](img/KDM2B_DMR.png)
+
