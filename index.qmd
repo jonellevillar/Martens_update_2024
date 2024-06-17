@@ -103,13 +103,16 @@ Martens Summer Seminar 2024
 :::: columns
 
 ::: {.column width="60%"}
-![](img/GeneTrail3.2.png)
+![](img/GeneTrail3.2.png){.absolute top=150 width=600px}
 :::
 
 ::: {.column width="40%"}
 
-
+<br><br>Tools for statistical analysis of molecular signatures <br><br>
+Large collection of biological categories
 :::
+
+::::
 
 ::: footer
 Martens Summer Seminar 2024
