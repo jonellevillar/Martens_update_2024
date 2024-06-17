@@ -98,27 +98,66 @@ Martens Summer Seminar 2024
 
 
 
-## Database investigation of DMR genes<br><br>
+## Database investigation of DMR genes{.smaller}
 
+:::: columns
 
+::: {.column width="60%"}
 ![](img/GeneTrail3.2.png)
+:::
+
+::: {.column width="40%"}
+
+
+:::
 
 ::: footer
 Martens Summer Seminar 2024
 :::   
 
-## Database investigation of DMR genes <br><br>
+## Database investigation of DMR genes {.smaller}
 
+:::: columns
+
+::: {.column width="60%"}
 ![](img/SynGO.png)
+
+:::
+
+::: {.column width="40%"}
+
+<br>Synaptic Gene Ontologies<br><br>
+Target of AP drug action (Trubetskoy _et al_, 2022)
+
+
+:::
+
+::::
 
 ::: footer
 Martens Summer Seminar 2024
 :::
 
-## Database investigation of DMR genes <br><br>
+## Database investigation of DMR genes {.smaller}
 
+:::: columns
+
+::: {.column width="50%"}
 
 ![](img/EpiFactors.png)
+
+:::
+
+::: {.column width="50%"}
+
+DNAm: DNA methyltransferases, demethylases<br><br>
+Histone modifications: histone acetyltransferases, deacetylases, methyltransferases, demethylases<br>
+<br>Chromatin remodeling: SWI/SNF complexes, ISWI complexes<br>
+<br>Other epigenetic regulators: Polycomb/Trithorax group proteins
+
+:::
+
+::::
 
 ::: footer
 Martens Summer Seminar 2024
