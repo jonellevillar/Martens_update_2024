@@ -109,6 +109,7 @@ Martens Summer Seminar 2024
 ::: {.column width="40%"}
 
 <br><br>Tools for statistical analysis of molecular signatures <br><br>
+GSEA and ORA<br><br>
 Large collection of biological categories
 :::
 
@@ -123,13 +124,13 @@ Martens Summer Seminar 2024
 :::: columns
 
 ::: {.column width="60%"}
-![](img/SynGO.png)
+![](img/SynGO.png){.absolute top=150 width=600px}
 
 :::
 
 ::: {.column width="40%"}
 
-<br>Synaptic Gene Ontologies<br><br>
+<br><br>Synaptic Gene Ontologies<br><br>
 Target of AP drug action (Trubetskoy _et al_, 2022)
 
 
@@ -147,12 +148,12 @@ Martens Summer Seminar 2024
 
 ::: {.column width="50%"}
 
-![](img/EpiFactors.png)
+![](img/EpiFactors.png){.absolute top=150 width=500px}
 
 :::
 
 ::: {.column width="50%"}
-
+<br>
 DNAm: DNA methyltransferases, demethylases<br><br>
 Histone modifications: histone acetyltransferases, deacetylases, methyltransferases, demethylases<br>
 <br>Chromatin remodeling: SWI/SNF complexes, ISWI complexes<br>
