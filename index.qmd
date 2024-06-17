@@ -15,7 +15,7 @@ incremental: true
 
 ## Aim: Identification of treatment effects <br>
 
--  Olanzapine, quetiapine, risperidone 
+-  Olanzapine, Quetiapine, Risperidone 
 -  Our focus - DNA methylation (CpG or DMR level) 
 -  Characterization of epigenetic dysregulation in severe mental illness is complex.
 - Identification of pathways – and the timing - where alterations may have occurred is not fully characterized. 
