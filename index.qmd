@@ -242,6 +242,7 @@ Genes associated with transcriptionally active chromatin
      
 - 22 DMRs (FDR < 0.05) associated with Common Effects
 - Significant association with epigenetic factors <br> e.g. HMT, HAT, kinases
+- DMRs may be associated with altered expression of these factors
 - AP may ameliorate epigenetic dysregulation by interacting with other epigenetic factors. 
 
 
