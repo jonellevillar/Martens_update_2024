@@ -198,8 +198,8 @@ Genes associated with transcriptionally active chromatin
 ## Discussion/Conclusion <br>
      
 - 22 DMRs (FDR < 0.05) associated with Common Effects
-- Significant association with epigenetic factors
-- Do AP mediate/ameliorate epigenetic dysregulation? 
+- Significant association with epigenetic factors <br> e.g. HMT, HAT, kinases
+- AP may ameliorate epigenetic dysregulation by interacting with other epigenetic factors. 
 
 
 ::: footer
